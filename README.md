@@ -1,6 +1,7 @@
-# SafeScreen-Supplymentary
+# SafeTriage-Supplementary
 
-This repository contains supplementary materials for the paper "SafeScreen: Facial Video De-identification for Privacy-Preserving Stroke Screening."
+This repository contains supplementary materials for the paper "SafeTriage: Facial Video De-identification for
+Privacy-Preserving Stroke Triage"
 
 We provide four generated videos: Two for stroke patients (Stroke_1 and Stroke_2). Two for non-stroke patients (Non_Stroke_1 and Non_Stroke_2).
 
